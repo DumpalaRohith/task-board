@@ -13,9 +13,13 @@ A simple Kanban style task board for teams or personal use. Create tasks, drag t
 
 ## Tech Stack
 Frontend: React, TypeScript, Vite, Tailwind CSS, dnd kit for drag and drop, Recharts for charts
+
 Backend: Node.js, Express, TypeScript, Mongoose
+
 Database: MongoDB (Atlas cloud or local)
+
 Auth: JWT tokens with bcrypt password hashing
+
 Containers: Docker and docker compose (optional)
 
 ## Project Structure
